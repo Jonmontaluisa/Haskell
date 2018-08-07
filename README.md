@@ -4,6 +4,13 @@ Project 1 for COMP30020 from the University of Melbourne. A 'Chord' guessing gam
 ## Overview
 The Game focus in guessing the right "Chord" with minimum guessing.
 
+## Testing
+ To compile use
+ >ghc -02 --make Proj1Test
+
+ To run the program use ./Proj1Test 'Chord'. Ex:
+ >./Proj1Test A1 B1 C3
+
 ## Full Description
 The Game of ChordProbe
 ChordProbe is a two-player logical guessing game created for this project. You will notnd
