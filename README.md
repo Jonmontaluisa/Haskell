@@ -38,5 +38,11 @@ pitch. A few more examples:
 |    A3,B2,C1   |    C3,A2,B1   |     0,3,3    |
 
 The game finishes once the performer guesses the correct chord (all three pitches in the
-guess are in the target). The object of the game for the performer is to nd the target with
+guess are in the target). The object of the game for the performer is tond the target with
 the fewest possible guesses.
+
+
+### Problems with Systems.random
+
+Make sure to install the random dependency
+> cabal install random
